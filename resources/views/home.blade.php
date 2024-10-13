@@ -1,3 +1,3 @@
 <x-layout>
-    <div>Hello world</div>
+    <div>Hello from Laravel App</div>
 </x-layout>
