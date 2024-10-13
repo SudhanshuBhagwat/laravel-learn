@@ -1,3 +1,3 @@
 <x-layout>
-    <div>Hello Sudhanshu</div>
+    <div>Hello world</div>
 </x-layout>
